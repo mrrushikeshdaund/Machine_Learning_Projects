@@ -26,3 +26,9 @@ Required packages Need to installed
 ```
 pip install -r requirement.txt
 ```
+
+To Setup CI/CD in Heroku we need three information 
+
+1. HEROKU_EMAIL = 
+2. HEROKU_API_KEY = 
+3. HEROKU_APP_NAME = 
